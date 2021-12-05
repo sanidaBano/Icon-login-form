@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(77, 73, 73);
+    margin-top: 30px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    margin-right: 280px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 60px;
+}
+
+.button1 {
+    margin-top: 140px;
+    background: #EA4335;
+    color: #fff;
+    width: 350px;
+}
+.button2 {
+    margin-top: 15px;
+    background: #4285F4;
+    color: #fff;
+    width: 350px;
+}
+
+.button3 {
+    margin-top: 15px;
+    background: #fff;
+    color: rgb(77, 73, 73);
+    width: 350px;
+}
+
+img {
+    width: 500px;
+    height: 550px;
+    position: relative;
+    margin-left: 190px;
+}
+
+p {
+    margin-right: 377px;
+    margin-top: 25px;
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgba(77, 73, 73);
+}
+
+p a {
+    text-decoration: none;
+}
+
+h5 {
+    margin-right: 335px;
+    margin-top: 50px;
+    font-size: 10px;
+    color: rgba(77, 73, 73);
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    margin-right: 392px;
+    font-size: 12px;
+    font-family: 'poppins' sans-serif;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #00B2C1;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
